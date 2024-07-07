@@ -1,0 +1,4 @@
+.root {
+    -fx-background-image: url("file:garbagemanage/src/main/assets/image/background image2.jpeg");
+    -fx-background-size: cover;
+}
